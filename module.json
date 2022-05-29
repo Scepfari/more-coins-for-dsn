@@ -14,6 +14,6 @@
             "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
         }
     ],
-    "download": "",
-    "manifest": ""
+    "download": "https://github.com/Scepfari/more-coins-for-dsn/releases/latest/download/more-coins-for-dsn.zip",
+    "manifest": "https://github.com/Scepfari/more-coins-for-dsn/releases/latest/download/module.json"
 }
