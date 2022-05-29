@@ -5,6 +5,7 @@
     "author": "Scepfari",
     "version": "0.1.0",
     "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
     "scripts": [
         "scripts/main.js"
     ],

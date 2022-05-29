@@ -1,4 +1,4 @@
-Hooks.once('diceSoNiceInit', (dice3d) => {
+Hooks.once('diceSoNiceReady', (dice3d) => {
 	
 	dice3d.addSystem({id: "space1889", name: "SPACE 1889 Templer"}, "default"); 
 	
