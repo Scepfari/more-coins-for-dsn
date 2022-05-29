@@ -3,7 +3,7 @@
     "title": "More Coins For DSN",
     "description": "Add new Coins to Dice-So-Nice",
     "author": "Scepfari",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "9",
     "scripts": [
