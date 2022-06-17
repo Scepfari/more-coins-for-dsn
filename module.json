@@ -3,7 +3,7 @@
     "title": "More Coins For DSN",
     "description": "Add new Coins to Dice-So-Nice",
     "author": "Scepfari",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "9",
     "scripts": [
@@ -15,6 +15,6 @@
             "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
         }
     ],
-    "download": "https://github.com/Scepfari/more-coins-for-dsn/releases/download/0.1.2-beta/more-coins-for-dsn.zip",
-    "manifest": "https://github.com/Scepfari/more-coins-for-dsn/releases/download/0.1.2-beta/module.json"
+    "download": "https://github.com/Scepfari/more-coins-for-dsn/releases/download/0.1.3-beta/more-coins-for-dsn.zip",
+    "manifest": "https://github.com/Scepfari/more-coins-for-dsn/releases/download/0.1.3-beta/module.json"
 }
