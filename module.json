@@ -10,7 +10,7 @@
 			"discord": "Scepfari#1283"
 		}
 	],
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "11.300",
 	"compatibility": {
@@ -38,7 +38,7 @@
 		]
 	},
 	"url": "https://github.com/Scepfari/more-coins-for-dsn",
-	"download": "https://github.com/Scepfari/more-coins-for-dsn/releases/download/0.2.0/more-coins-for-dsn.zip",
+	"download": "https://github.com/Scepfari/more-coins-for-dsn/releases/download/0.2.1/more-coins-for-dsn-0.2.1.zip",
 	"manifest": "https://github.com/Scepfari/more-coins-for-dsn/releases/latest/download/module.json",
 	"bugs": "https://github.com/Scepfari/more-coins-for-dsn/issues",
 	"flags": {
