@@ -38,7 +38,7 @@
 		]
 	},
 	"url": "https://github.com/Scepfari/more-coins-for-dsn",
-	"download": "https://github.com/Scepfari/more-coins-for-dsn/releases/download/0.1.4/more-coins-for-dsn.zip",
+	"download": "https://github.com/Scepfari/more-coins-for-dsn/releases/download/0.2.0/more-coins-for-dsn.zip",
 	"manifest": "https://github.com/Scepfari/more-coins-for-dsn/releases/latest/download/module.json",
 	"bugs": "https://github.com/Scepfari/more-coins-for-dsn/issues",
 	"flags": {
